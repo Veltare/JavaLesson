@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package lesson2;
-import Database.Data;
+package class;
+import class.Data;
 /**
  *
  * @author Notebook
  */
-public class Lesson2 {
+public class Lesson {
 
     /**
      * @param args the command line arguments
